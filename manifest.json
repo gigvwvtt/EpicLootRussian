@@ -1,0 +1,9 @@
+{
+  "name": "EpicLootRussianTranslation",
+  "version_number": "0.9.20",
+  "website_url": "",
+  "description": "Russian translation for EpicLoot",
+  "dependencies": [
+    "RandyKnapp-EpicLoot-0.9.20"
+  ]
+}
