@@ -1,6 +1,6 @@
 {
-  "name": "EpicLootRussianTranslation",
-  "version_number": "0.9.20",
+  "name": "EpicLootRus",
+  "version_number": "0.9.22",
   "website_url": "https://github.com/gigvwvtt/EpicLootRussian",
   "description": "Russian translation for EpicLoot",
   "dependencies": [
