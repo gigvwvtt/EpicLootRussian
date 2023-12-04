@@ -4,7 +4,7 @@
   "website_url": "https://github.com/gigvwvtt/EpicLootRussian",
   "description": "Russian translation for EpicLoot",
   "dependencies": [
-    "RandyKnapp-EpicLoot-0.9.32",
+    "RandyKnapp-EpicLoot-0.9.37",
 	"ASharpPen-This_Goes_Here-2.1.1"
   ]
 }
