@@ -1,4 +1,4 @@
 ﻿PrintComment: ThisGoesHere moves the translations in place
-CopyFolder:
-- From: plugins/gigvwvtt-EpicLootRus/RandyKnapp-EpicLoot
-  To: plugins/
+CopyFile:
+- From: plugins/gigvwvtt-EpicLootRus/RandyKnapp-EpicLoot/Russian.json
+  To: config/EpicLoot/localizations/Russian.json

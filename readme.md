@@ -7,8 +7,8 @@ It is just a simple Russian translations for EpicLoot mod.
 
 Если версия мода с переводом не обновляется, это значит что автор оригинального мода не добавлял ничего что требовало перевода.
 
-> RUS: Внимание! Эта модификация автоматически перезаписывает файл `translations.json` оригинальной модификации в папке `BepInEx\plugins\RandyKnapp-EpicLoot`.
+> RUS: Внимание! Эта модификация автоматически копирует файл `Russian.json` в папкe `config\EpicLoot\localizations`.
 
-> ENG: WARNING! This mod automatically rewrites `translations.json` file in `BepInEx\plugins\RandyKnapp-EpicLoot` folder.
+> ENG: WARNING! This mod automatically copies `Russian.json` file in `config\EpicLoot\localizations` folder.
 
 Спасибо [vitprog](https://valheim.thunderstore.io/package/vitprog/)! БОльшая часть перевода была взята у него.
