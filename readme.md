@@ -7,8 +7,9 @@ It is just a simple Russian translations for EpicLoot mod.
 
 Если версия мода с переводом не обновляется, это значит что автор оригинального мода не добавлял ничего что требовало перевода.
 
-> RUS: Внимание! Эта модификация автоматически копирует файл `Russian.json` в папкe `config\EpicLoot\localizations`.
+> RUS: Внимание! Эта модификация автоматически копирует файл `Russian.json` в папку `config\EpicLoot\localizations`.
 
-> ENG: WARNING! This mod automatically copies `Russian.json` file in `config\EpicLoot\localizations` folder.
+> ENG: WARNING! This mod automatically copies `Russian.json` file to `config\EpicLoot\localizations` folder.
 
 Спасибо [vitprog](https://valheim.thunderstore.io/package/vitprog/)! БОльшая часть перевода была взята у него.
+
